@@ -1,0 +1,33 @@
+body {
+   min-height:100vh;
+}
+
+.flex-fill {
+   flex:1 1 auto;
+}
+
+.page-footer, .footer-copyright{
+  color:#fff;
+}
+
+
+
+.nav-item > a:hover {
+  color: red;
+}
+
+#sidebar{
+  border:2px solid blue;
+}
+#optionsJefe,#datePicker{
+  margin-top: 4%;
+}
+
+.nuevaReunion,.submit{
+  margin-top: 4%;
+}
+
+.center{
+  margin:0 auto;
+  width: 80%;
+}
